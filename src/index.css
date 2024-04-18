@@ -11,13 +11,14 @@ body {
 	margin: 0 auto;
 	max-width: 1200px;
 	font-family: 'Lato';
-	color: #333;
+	color: #fdfafa;
+	background-color: #717171;
 }
 
 .icon-cart {
 	width: 40px;
 	height: 40px;
-	stroke: #000;
+	stroke: #faf2f2;
 }
 
 .icon-cart:hover {
@@ -44,8 +45,8 @@ header {
 	top: 55%;
 	right: 0;
 
-	background-color: #000;
-	color: #fff;
+	background-color: #0c0c0c;
+	color: #f5e7e7;
 	width: 25px;
 	height: 25px;
 
@@ -64,10 +65,10 @@ header {
 	top: 50px;
 	right: 0;
 
-	background-color: #fff;
+	background-color: #100f0f;
 	width: 400px;
 	z-index: 1;
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 10px 20px rgba(247, 246, 246, 0.912);
 	border-radius: 10px;
 }
 
